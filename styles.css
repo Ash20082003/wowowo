@@ -1,0 +1,21 @@
+a{
+    color: black;
+    font-size:30px;
+}
+img{
+    margin-top: 50px;
+    border-style:double;
+    border-color:black;
+    border-width:100px;
+    zoom:25%;
+}
+    body{
+    font-family: 'Amatic SC', cursive;
+    background-color:gray;
+    /*background: url("http://www.pptbackgrounds.org/uploads/lined-paper-powerpoint-backgrounds.jpg") no-repeat center;*/
+    background-size: cover;
+    text-align:center;
+}
+p{
+    font-size:30px;
+}
